@@ -106,9 +106,9 @@ A backend-focused AI system that converts **natural language and image-based app
 
 ## 🧭 My Journey
 
-- Began with web development fundamentals and gradually moved into backend engineering and AI systems  
-- Interested in how systems behave under real-world conditions, such as APIs under load and noisy NLP pipelines  
-- Learn by building complete systems, refining designs, and iterating based on practical limitations  
+- Started by crafting web interfaces, then moved deeper into backend engineering and AI systems that power real applications.
+- Fascinated by system behavior at scale — API performance under load, data consistency, and NLP pipelines in imperfect environments.
+-  My approach is simple: build, break, learn, and rebuild until the system works the way it should in the real world. 
 
 ---
 
@@ -125,10 +125,5 @@ A backend-focused AI system that converts **natural language and image-based app
 📥 **Resume available on the portfolio website**
 
 ---
-
-## ⭐ Notes
-
-This repository represents my personal portfolio as a student developer.  
-Feedback and suggestions are always welcome.
 
 ⭐ If you find this portfolio useful, feel free to star the repository!
