@@ -1,9 +1,4 @@
-# 💻 D K Vijendra Kumar
----
-
-## 🌐 Live Preview
-🔗 **Portfolio Website**  
-👉 https://dk9480.github.io/Portfolio/#
+#  D K Vijendra Kumar
 
 ---
 
