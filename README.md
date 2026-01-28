@@ -1,9 +1,4 @@
-# 💻 D K Vijendra Kumar — Developer Portfolio
-
-A modern, dark-themed developer portfolio showcasing my work in **Full-Stack Development**, **AI-driven systems**, and **Data & Quantitative Applications**.
-
-Designed with a clean, terminal-inspired aesthetic to reflect my interest in **practical engineering, backend systems, and scalable software design**.
-
+# 💻 D K Vijendra Kumar
 ---
 
 ## 🌐 Live Preview
@@ -139,13 +134,3 @@ I enjoy working across the stack — from **frontend interfaces** to **backend A
 - 🔗 LinkedIn: https://www.linkedin.com/in/dkvijendrakumar/  
 
 ---
-
-## 📌 Notes
-
-- This portfolio is built to reflect a **student developer’s real capabilities**, not a generic template.
-- Focused on **clarity, maintainability, and real-world projects**.
-- Actively learning and improving through hands-on development.
-
----
-
-⭐ If you find this portfolio useful or interesting, feel free to star the repository.
