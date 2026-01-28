@@ -1,131 +1,135 @@
-#  D K Vijendra Kumar
+# 🌐 D K Vijendra Kumar — Developer Portfolio
+
+A modern, dark-themed developer portfolio showcasing my projects, skills, and journey in **Full-Stack Development**, **AI Systems**, and **Backend Engineering**.
+
+This portfolio is designed to reflect my interest in **real-world system design**, clean architecture, and learning by building production-style projects.
 
 ---
 
-## 👨‍🎓 About Me
+## 🚀 Live Preview
 
-I am a **B.Tech undergraduate student at IIITDM Kancheepuram** (Smart Manufacturing Engineering – IT track), with a strong focus on building **real-world software systems**.
-
-I enjoy working across the stack — from **frontend interfaces** to **backend APIs**, and applying **data analytics and AI models** to solve practical problems.
-
-### My core interests include:
-- Full-Stack Web Development  
-- Backend Systems & REST APIs  
-- AI-based Applications (NLP, OCR, LLMs)  
-- Data Analytics & Quantitative Systems  
+🔗 **Portfolio Website:**  
+https://dk9480.github.io/Portfolio/
 
 ---
 
-## 🧠 Technical Skills
+## 👋 About Me
 
-### Programming Languages
-- JavaScript  
-- Python  
-- C / C++  
-- SQL  
+I’m **D K Vijendra Kumar**, a **B.Tech Final Year student at IIITDM Kancheepuram**, passionate about building scalable backend systems, full-stack applications, and AI-driven solutions.
 
-### Frontend
+My focus areas include:
+- Backend & API development
+- AI-powered applications (NLP, OCR, RAG systems)
+- Data-driven and quantitative systems
+- Clean, maintainable, and scalable codebases
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- HTML, CSS, JavaScript  
 - React.js  
-- HTML5, CSS3  
-- Tailwind CSS  
-- Redux  
 
-### Backend & Systems
-- Node.js  
-- Express.js  
-- RESTful API Development  
-- JSON Web Tokens (JWT)  
-- Cloud & Backend Deployment  
+**Backend**
+- Node.js, Express.js  
+- Python, FastAPI, Flask  
+- REST APIs, Authentication (JWT)
 
-### Databases
-- MongoDB  
+**AI & Data**
+- LLM APIs, RAG pipelines  
+- OCR (EasyOCR, Tesseract)  
+- Pandas, NumPy, Statsmodels  
+
+**Databases**
 - MySQL  
+- MongoDB  
+- SQLite  
 
-### Data & AI
-- Data Cleaning & Exploratory Data Analysis (EDA)  
-- Pandas, NumPy, Matplotlib, Seaborn  
-- NLP, OCR, LLM-based systems  
-
-### Tools & Platforms
+**Other**
+- WebSockets (Binance)  
 - Git & GitHub  
-- Postman  
 
 ---
 
-## 💼 Experience
+## 📌 Projects & Systems Built
 
-### Full-Stack Developer Intern (Data & Analytics)  
-**IIITDM Kancheepuram** | *May 2025 – July 2025*
+### 🔹 AI Data Assistant (RAG SaaS)
+A multi-tenant AI system that enables users to query **PDF documents and relational databases** using natural language.
 
-- Developed a full-stack web application using **React.js and Express.js** to visualize real-time sensor data.
-- Collected and analyzed **~500 real-world milk samples** using an existing sensor setup.
-- Built and validated **linear and polynomial regression models** for milk fat prediction.
-- Achieved **91% prediction accuracy**, benchmarked against the industry-standard **Gerber method**, improving reliability of automated quality assessment.
+**Tech:** Node.js, Express, MySQL, Pinecone, LLMs, React  
+🔗 GitHub: https://github.com/dk9480/AI-Data-Assistant-RAG-based-SaaS-Application
 
 ---
 
-## 📂 Featured Projects
+### 🔹 MERN Task Distributor
+A role-based task management platform with automated bulk assignment and access control.
 
-### 🔹 AI Data Assistant — RAG-based SaaS Application  
-**Tech:** Node.js, Express, MySQL, Pinecone, Groq LLM, React.js, Recharts  
-
-- Built a **multi-tenant Retrieval-Augmented Generation (RAG)** system for querying structured (MySQL) and unstructured (PDF) data.
-- Implemented a complete **PDF ingestion pipeline**: text extraction, chunking, and BGE embeddings stored in Pinecone.
-- Developed a **natural language to SQL engine** using Groq LLM with safety enforcement and SQL dialect correction.
-- Designed a ChatGPT-like React dashboard with **automatic chart generation** and persistent chat history.
-
-🔗 GitHub: https://github.com/dk9480
+**Tech:** React, Node.js, Express, MongoDB, JWT  
+🔗 GitHub: https://github.com/dk9480/mern-task-distributor
 
 ---
 
-### 🔹 MERN Task Distributor — Full-Stack Web App  
-**Tech:** React.js, Node.js, Express.js, MongoDB, JWT  
+### 🔹 AI Medical Report Reader
+An AI-powered application that converts complex medical reports into patient-friendly summaries with Q&A support.
 
-- Built a full-stack task management system with a **3-tier hierarchy** (Admin → Agent → Sub-agent).
-- Implemented **JWT-based authentication** and role-based access control.
-- Automated bulk **CSV/XLSX uploads** for task assignment.
-- Designed a real-time admin dashboard with duplicate detection and system-wide monitoring.
-- Deployed backend using **MongoDB Atlas** and optimized REST APIs for scalability.
-
-🔗 GitHub: https://github.com/dk9480
+**Tech:** React, Node.js, OCR, LLM APIs  
+🔗 GitHub: https://github.com/dk9480/AI-Powered-Medical-Report-Reader
 
 ---
 
-### 🔹 AI-Powered Medical Report Reader  
-**Tech:** React, Vite, Node.js, Express, Groq API, Tesseract.js  
+### 🔹 Milk Fat Prediction System
+A data analytics project that predicts milk fat percentage using regression models and sensor data.
 
-- Built an AI web application to convert **medical reports into patient-friendly summaries** using Llama 3.1 via Groq API.
-- Implemented **OCR-based multimodal input** for both text and scanned documents.
-- Developed an interactive Q&A chatbot and **multi-language translation**, including Indian languages.
-
-🔗 GitHub: https://github.com/dk9480
+**Tech:** Python, Pandas, NumPy, Regression
 
 ---
 
-## 🧑‍💼 Positions of Responsibility
+### 🔹 Quant Developer Evaluation Assignment
+A real-time **pair trading analytics system** designed for quantitative evaluation.
 
-- **Placement Coordinator**, Training & Placement Cell  
-  *IIITDM Kancheepuram* (April 2025 – Present)  
-  - Coordinating with companies for internships and placement opportunities.
+- Engineered low-latency Binance WebSocket ingestion (~5,000 ticks)
+- Implemented rolling OLS regression and ADF tests for cointegration
+- Built a real-time dashboard for spread & Z-score visualization
+
+**Tech:** Python, FastAPI, Statsmodels, React.js, Binance WebSocket, SQLite
 
 ---
 
-## 🏆 Awards & Certifications
+### 🔹 AI-Powered Appointment Scheduler
+A backend-heavy AI system that converts **natural language and image-based appointment requests** into structured schedules.
 
-- **NPTEL Certifications**  
-  - Programming in Java (Silver Medal)  
-  - Joy of Computing using Python (Silver Medal)  
-  - Cloud Computing (Silver Medal)
+**Tech:** Node.js, Python, Flask, EasyOCR, NLP
 
-- **National Road Safety Hackathon 2024**  
-  - Participated in NHAI-organized hackathon and contributed to road safety solutions.
+---
+
+## 🧭 My Journey
+
+- Began with web development fundamentals and evolved into backend and AI systems  
+- Interested in how systems behave under real-world constraints — APIs under load, noisy NLP pipelines  
+- Learn by building real projects, breaking assumptions, and iterating toward reliable systems  
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: **dkvijendra04@gmail.com**  
-- 🐙 GitHub: https://github.com/dk9480  
-- 🔗 LinkedIn: https://www.linkedin.com/in/dkvijendrakumar/  
+- **Email:** dkvijendra04@gmail.com  
+- **GitHub:** https://github.com/dk9480  
+- **LinkedIn:** https://www.linkedin.com/in/dkvijendrakumar/
 
 ---
+
+## 📄 Resume
+
+📥 **Download Resume:**  
+Available directly on the portfolio website.
+
+---
+
+## 📝 License
+
+This project is open-source and available for learning and inspiration.
+
+---
+
+⭐ If you find this portfolio useful, feel free to star the repository!
