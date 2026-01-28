@@ -1,8 +1,8 @@
 # 🌐 D K Vijendra Kumar — Developer Portfolio
 
-A modern, dark-themed developer portfolio showcasing my projects, skills, and journey in **Full-Stack Development**, **AI Systems**, and **Backend Engineering**.
+A modern, dark-themed developer portfolio showcasing my work in **Full-Stack Development**, **AI Systems**, and **Backend Engineering**.
 
-This portfolio is designed to reflect my interest in **real-world system design**, clean architecture, and learning by building production-style projects.
+This portfolio reflects my focus on **real-world system design**, clean architecture, and learning through building production-oriented projects as a final-year engineering student.
 
 ---
 
@@ -15,38 +15,37 @@ https://dk9480.github.io/Portfolio/
 
 ## 👋 About Me
 
-I’m **D K Vijendra Kumar**, a **B.Tech Final Year student at IIITDM Kancheepuram**, passionate about building scalable backend systems, full-stack applications, and AI-driven solutions.
+I’m **D K Vijendra Kumar**, a **B.Tech Final Year student at IIITDM Kancheepuram**, with a strong interest in backend engineering, full-stack development, and AI-driven systems.
 
-My focus areas include:
-- Backend & API development
-- AI-powered applications (NLP, OCR, RAG systems)
-- Data-driven and quantitative systems
-- Clean, maintainable, and scalable codebases
+I enjoy designing and implementing systems that are:
+- Scalable and maintainable  
+- Data-driven and performance-aware  
+- Aligned with real-world constraints  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 - HTML, CSS, JavaScript  
 - React.js  
 
-**Backend**
+### Backend
 - Node.js, Express.js  
 - Python, FastAPI, Flask  
-- REST APIs, Authentication (JWT)
+- REST APIs, JWT-based authentication  
 
-**AI & Data**
+### AI & Data
 - LLM APIs, RAG pipelines  
 - OCR (EasyOCR, Tesseract)  
 - Pandas, NumPy, Statsmodels  
 
-**Databases**
+### Databases
 - MySQL  
 - MongoDB  
 - SQLite  
 
-**Other**
+### Other Tools
 - WebSockets (Binance)  
 - Git & GitHub  
 
@@ -55,7 +54,7 @@ My focus areas include:
 ## 📌 Projects & Systems Built
 
 ### 🔹 AI Data Assistant (RAG SaaS)
-A multi-tenant AI system that enables users to query **PDF documents and relational databases** using natural language.
+A multi-tenant AI system that allows users to query **PDF documents and relational databases** using natural language.
 
 **Tech:** Node.js, Express, MySQL, Pinecone, LLMs, React  
 🔗 GitHub: https://github.com/dk9480/AI-Data-Assistant-RAG-based-SaaS-Application
@@ -71,7 +70,7 @@ A role-based task management platform with automated bulk assignment and access 
 ---
 
 ### 🔹 AI Medical Report Reader
-An AI-powered application that converts complex medical reports into patient-friendly summaries with Q&A support.
+An AI-powered application that converts complex medical reports into easy-to-understand summaries with interactive Q&A.
 
 **Tech:** React, Node.js, OCR, LLM APIs  
 🔗 GitHub: https://github.com/dk9480/AI-Powered-Medical-Report-Reader
@@ -79,37 +78,37 @@ An AI-powered application that converts complex medical reports into patient-fri
 ---
 
 ### 🔹 Milk Fat Prediction System
-A data analytics project that predicts milk fat percentage using regression models and sensor data.
+A data analytics project focused on predicting milk fat percentage using regression models and experimental data.
 
 **Tech:** Python, Pandas, NumPy, Regression
 
 ---
 
 ### 🔹 Quant Developer Evaluation Assignment
-A real-time **pair trading analytics system** designed for quantitative evaluation.
+A real-time **pair trading analytics system** developed as part of a quantitative evaluation task.
 
 - Engineered low-latency Binance WebSocket ingestion (~5,000 ticks)
 - Implemented rolling OLS regression and ADF tests for cointegration
-- Built a real-time dashboard for spread & Z-score visualization
+- Built a real-time dashboard for spread and Z-score visualization
 
-**Tech:** Python, FastAPI, Statsmodels, React.js, Binance WebSocket, SQLite
+**Tech:** Python, FastAPI, Statsmodels, React.js, Binance WebSocket, SQLite  
 🔗 GitHub: https://github.com/dk9480/quant-trading-app
 
 ---
 
 ### 🔹 AI-Powered Appointment Scheduler
-A backend-heavy AI system that converts **natural language and image-based appointment requests** into structured schedules.
+A backend-focused AI system that converts **natural language and image-based appointment requests** into structured scheduling data.
 
-**Tech:** Node.js, Python, Flask, EasyOCR, NLP
+**Tech:** Node.js, Python, Flask, EasyOCR, NLP  
 🔗 GitHub: https://github.com/dk9480/ai-powered-scheduling-system
 
 ---
 
 ## 🧭 My Journey
 
-- Started by crafting web interfaces, then moved deeper into backend engineering and AI systems that power real applications.
-- Fascinated by system behavior at scale — API performance under load, data consistency, and NLP pipelines in imperfect environments. 
-- My approach is simple: build, break, learn, and rebuild until the system works the way it should in the real world. 
+- Began with web development fundamentals and gradually moved into backend engineering and AI systems  
+- Interested in how systems behave under real-world conditions, such as APIs under load and noisy NLP pipelines  
+- Learn by building complete systems, refining designs, and iterating based on practical limitations  
 
 ---
 
@@ -123,10 +122,13 @@ A backend-heavy AI system that converts **natural language and image-based appoi
 
 ## 📄 Resume
 
-📥 **Download Resume:**  
-Available directly on the portfolio website.
+📥 **Resume available on the portfolio website**
 
 ---
 
+## ⭐ Notes
+
+This repository represents my personal portfolio as a student developer.  
+Feedback and suggestions are always welcome.
 
 ⭐ If you find this portfolio useful, feel free to star the repository!
