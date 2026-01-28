@@ -1,92 +1,134 @@
 # 💻 D K Vijendra Kumar — Developer Portfolio
 
-A modern, dark-themed developer portfolio showcasing my projects, skills, and interests in **Full-Stack Development**, **AI Systems**, and **Quantitative Applications**.
+A modern, dark-themed developer portfolio showcasing my work in **Full-Stack Development**, **AI-driven systems**, and **Data & Quantitative Applications**.
 
-Designed with a **terminal-inspired UI** to reflect my interest in low-level systems, clean design, and practical engineering.
-
----
-
-## 🌌 Live Preview
-🔗 **Portfolio Website:**  
-👉 https://dk9480.github.io/your-portfolio-repo-name
+Designed with a clean, terminal-inspired aesthetic to reflect my interest in **practical engineering, backend systems, and scalable software design**.
 
 ---
 
-## 🧑‍🎓 About Me
+## 🌐 Live Preview
+🔗 **Portfolio Website**  
+👉 https://dk9480.github.io/Portfolio/#
 
-I am a **B.Tech undergraduate student at IIITDM Kancheepuram**, passionate about building **practical software systems** that combine strong fundamentals with modern technologies.
+---
 
-My interests include:
+## 👨‍🎓 About Me
+
+I am a **B.Tech undergraduate student at IIITDM Kancheepuram** (Smart Manufacturing Engineering – IT track), with a strong focus on building **real-world software systems**.
+
+I enjoy working across the stack — from **frontend interfaces** to **backend APIs**, and applying **data analytics and AI models** to solve practical problems.
+
+### My core interests include:
 - Full-Stack Web Development  
-- Backend Systems & APIs  
-- AI-based Applications (NLP, OCR)  
-- Quantitative & Data-driven Systems  
-
-I enjoy turning ideas into working products with clean, maintainable code.
+- Backend Systems & REST APIs  
+- AI-based Applications (NLP, OCR, LLMs)  
+- Data Analytics & Quantitative Systems  
 
 ---
 
-## ✨ Key Highlights
+## 🧠 Technical Skills
 
-- ⚙️ Terminal-style dark UI for a unique developer identity  
-- 🧠 Projects spanning **AI**, **Trading Systems**, and **Full-Stack Apps**  
-- 🚀 Clean, fast, and responsive design  
-- 🧩 Easy to extend and customize  
-
----
-
-## 🛠️ Tech Stack
+### Programming Languages
+- JavaScript  
+- Python  
+- C / C++  
+- SQL  
 
 ### Frontend
-- HTML5  
-- CSS3 (Dark UI, Responsive Design)  
-- Vanilla JavaScript  
+- React.js  
+- HTML5, CSS3  
+- Tailwind CSS  
+- Redux  
 
-### Backend / Systems
-- Python (Flask, FastAPI)  
-- Node.js & Express  
-- REST APIs  
+### Backend & Systems
+- Node.js  
+- Express.js  
+- RESTful API Development  
+- JSON Web Tokens (JWT)  
+- Cloud & Backend Deployment  
 
 ### Databases
 - MongoDB  
-- SQLite  
+- MySQL  
 
-### AI & Data
-- NLP  
-- OCR (EasyOCR)  
-- Statistical Analysis  
+### Data & AI
+- Data Cleaning & Exploratory Data Analysis (EDA)  
+- Pandas, NumPy, Matplotlib, Seaborn  
+- NLP, OCR, LLM-based systems  
+
+### Tools & Platforms
+- Git & GitHub  
+- Postman  
+
+---
+
+## 💼 Experience
+
+### Full-Stack Developer Intern (Data & Analytics)  
+**IIITDM Kancheepuram** | *May 2025 – July 2025*
+
+- Developed a full-stack web application using **React.js and Express.js** to visualize real-time sensor data.
+- Collected and analyzed **~500 real-world milk samples** using an existing sensor setup.
+- Built and validated **linear and polynomial regression models** for milk fat prediction.
+- Achieved **91% prediction accuracy**, benchmarked against the industry-standard **Gerber method**, improving reliability of automated quality assessment.
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 AI Appointment Scheduler
-AI-powered system using **OCR + NLP** to extract appointment details from text and images.
+### 🔹 AI Data Assistant — RAG-based SaaS Application  
+**Tech:** Node.js, Express, MySQL, Pinecone, Groq LLM, React.js, Recharts  
 
-**Tech:** Python, Flask, EasyOCR, NLP  
-🔗 https://github.com/dk9480/ai-powered-scheduling-system
+- Built a **multi-tenant Retrieval-Augmented Generation (RAG)** system for querying structured (MySQL) and unstructured (PDF) data.
+- Implemented a complete **PDF ingestion pipeline**: text extraction, chunking, and BGE embeddings stored in Pinecone.
+- Developed a **natural language to SQL engine** using Groq LLM with safety enforcement and SQL dialect correction.
+- Designed a ChatGPT-like React dashboard with **automatic chart generation** and persistent chat history.
 
----
-
-### 🔹 Real-Time Quantitative Trading System
-Low-latency trading engine using **cointegration and mean-reversion strategies** on live market data.
-
-**Tech:** Python, FastAPI, WebSockets  
-🔗 https://github.com/dk9480/quant-trading-app
+🔗 GitHub: https://github.com/dk9480
 
 ---
 
-### 🔹 MERN Task Distributor
-Task allocation platform with authentication, CSV upload, and role-based access.
+### 🔹 MERN Task Distributor — Full-Stack Web App  
+**Tech:** React.js, Node.js, Express.js, MongoDB, JWT  
 
-**Tech:** MongoDB, Express, React, Node.js  
-🔗 https://github.com/dk9480/mern-task-distributor
+- Built a full-stack task management system with a **3-tier hierarchy** (Admin → Agent → Sub-agent).
+- Implemented **JWT-based authentication** and role-based access control.
+- Automated bulk **CSV/XLSX uploads** for task assignment.
+- Designed a real-time admin dashboard with duplicate detection and system-wide monitoring.
+- Deployed backend using **MongoDB Atlas** and optimized REST APIs for scalability.
+
+🔗 GitHub: https://github.com/dk9480
 
 ---
 
-## 📄 Resume
-📎 **Download Resume:**  
-👉 `VIJENDRAKUMAR__RESUME.pdf`
+### 🔹 AI-Powered Medical Report Reader  
+**Tech:** React, Vite, Node.js, Express, Groq API, Tesseract.js  
+
+- Built an AI web application to convert **medical reports into patient-friendly summaries** using Llama 3.1 via Groq API.
+- Implemented **OCR-based multimodal input** for both text and scanned documents.
+- Developed an interactive Q&A chatbot and **multi-language translation**, including Indian languages.
+
+🔗 GitHub: https://github.com/dk9480
+
+---
+
+## 🧑‍💼 Positions of Responsibility
+
+- **Placement Coordinator**, Training & Placement Cell  
+  *IIITDM Kancheepuram* (April 2025 – Present)  
+  - Coordinating with companies for internships and placement opportunities.
+
+---
+
+## 🏆 Awards & Certifications
+
+- **NPTEL Certifications**  
+  - Programming in Java (Silver Medal)  
+  - Joy of Computing using Python (Silver Medal)  
+  - Cloud Computing (Silver Medal)
+
+- **National Road Safety Hackathon 2024**  
+  - Participated in NHAI-organized hackathon and contributed to road safety solutions.
 
 ---
 
@@ -94,12 +136,16 @@ Task allocation platform with authentication, CSV upload, and role-based access.
 
 - 📧 Email: **dkvijendra04@gmail.com**  
 - 🐙 GitHub: https://github.com/dk9480  
-- 🔗 LinkedIn: https://www.linkedin.com/in/dkvijendrakumar/
+- 🔗 LinkedIn: https://www.linkedin.com/in/dkvijendrakumar/  
 
 ---
 
-## 🛠️ Setup & Usage
+## 📌 Notes
 
-```bash
-git clone https://github.com/dk9480/your-portfolio-repo-name.git
-cd your-portfolio-repo-name
+- This portfolio is built to reflect a **student developer’s real capabilities**, not a generic template.
+- Focused on **clarity, maintainability, and real-world projects**.
+- Actively learning and improving through hands-on development.
+
+---
+
+⭐ If you find this portfolio useful or interesting, feel free to star the repository.
