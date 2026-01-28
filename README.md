@@ -107,9 +107,9 @@ A backend-heavy AI system that converts **natural language and image-based appoi
 
 ## 🧭 My Journey
 
-- Began with web development fundamentals and evolved into backend and AI systems  
-- Interested in how systems behave under real-world constraints — APIs under load, noisy NLP pipelines  
-- Learn by building real projects, breaking assumptions, and iterating toward reliable systems  
+- Started by crafting web interfaces, then moved deeper into backend engineering and AI systems that power real applications.
+- Fascinated by system behavior at scale — API performance under load, data consistency, and NLP pipelines in imperfect environments. 
+- My approach is simple: build, break, learn, and rebuild until the system works the way it should in the real world. 
 
 ---
 
