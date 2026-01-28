@@ -93,6 +93,7 @@ A real-time **pair trading analytics system** designed for quantitative evaluati
 - Built a real-time dashboard for spread & Z-score visualization
 
 **Tech:** Python, FastAPI, Statsmodels, React.js, Binance WebSocket, SQLite
+🔗 GitHub: https://github.com/dk9480/quant-trading-app
 
 ---
 
@@ -100,6 +101,7 @@ A real-time **pair trading analytics system** designed for quantitative evaluati
 A backend-heavy AI system that converts **natural language and image-based appointment requests** into structured schedules.
 
 **Tech:** Node.js, Python, Flask, EasyOCR, NLP
+🔗 GitHub: https://github.com/dk9480/ai-powered-scheduling-system
 
 ---
 
@@ -126,10 +128,5 @@ Available directly on the portfolio website.
 
 ---
 
-## 📝 License
-
-This project is open-source and available for learning and inspiration.
-
----
 
 ⭐ If you find this portfolio useful, feel free to star the repository!
