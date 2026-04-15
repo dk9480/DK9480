@@ -61,6 +61,14 @@ A multi-tenant AI system that allows users to query **PDF documents and relation
 
 ---
 
+### 🔹 AI-Powered-Athlete-Performance-Tracker
+A full-stack web application that enables athletes to log workouts, analyze performance trends, receive AI-generated insights, and export training reports as PDFs.
+
+**Tech:** React.js, Node.js, Express.js, MongoDB, JWT, Google Gemini API  
+🔗 GitHub: https://github.com/dk9480/AI-Powered-Athlete-Performance-Tracker
+
+---
+
 ### 🔹 MERN Task Distributor
 A role-based task management platform with automated bulk assignment and access control.
 
